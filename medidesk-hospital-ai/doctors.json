@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Dr. Emeka Okoro", "specialty": "cardiology", "available": ["Monday 10am", "Tuesday 2pm", "Wednesday 10am"], "phone": "+234" },
+  { "id": 2, "name": "Dr. Aisha Bello", "specialty": "pediatrics", "available": ["Monday 9am", "Thursday 11am", "Friday 10am"] },
+  { "id": 3, "name": "Dr. Sammie", "specialty": "general", "available": ["Everyday 9am-5pm"] }
+]
